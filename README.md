@@ -10,9 +10,9 @@ I am a Full Stack developer with good experience as a Full Stack developer using
 * **Tools:** AJAX, Spring Tool Suite, REST API, Axios, JSON, PostMan, Socket.io, AWS(EC2), MySQL Workbench, Git, Github.<br>
 <br>
 <h3>Technical Projects</h3>
-[GuruDesk](https://github.com/ameerbaghdadi/GuruDesk) - A support ticketing system built using React, Node.js, Express and MongoDB<br>
-[Realest](github.com/ameerbaghdadi/Realest) A website to connect customers and real estate developers built using Java Spring Boot Framework<br>
-[RentX](github.com/ameerbaghdadi/RentXProject) A website that allows university students living in accommodations to share/rent their own products built using Django<br>
+[GuruDesk](https://github.com/ameerbaghdadi/GuruDesk): A support ticketing system built using React, Node.js, Express and MongoDB<br>
+[Realest](https://github.com/ameerbaghdadi/Realest): A website to connect customers and real estate developers built using Java Spring Boot Framework<br>
+[RentX](https://github.com/ameerbaghdadi/RentXProject): A website that allows university students living in accommodations to share/rent their own products built using Django<br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ameerbaghdadi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ameerbaghdadi/)  
 
