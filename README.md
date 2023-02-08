@@ -8,7 +8,7 @@ I am a Full Stack developer with good experience as a Full Stack developer using
 * **Frameworks/Libraries:** Flask, Spring Boot, jQuery, React, Express, Bootstrap, Material-UI.<br>
 * **Database:** MySQL, MongoDB, Mongoose.<br>
 * **Tools:** AJAX, Spring Tool Suite, REST API, Axios, JSON, PostMan, Socket.io, AWS(EC2), MySQL Workbench, Git, Github.<br>
-<br>
+
 <h3>Technical Projects</h3>
 
 * [GuruDesk](https://github.com/ameerbaghdadi/GuruDesk): A support ticketing system built using React, Node.js, Express and MongoDB<br>
