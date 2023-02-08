@@ -1,4 +1,4 @@
-### Hi there 👋, Ameer Baghdadi
+### Hi there 👋, My name is Ameer Baghdadi
 #### I am a Full Stack developer
 I am a Full Stack developer with good experience as a Full Stack developer using Java and Python and Great skills with HTML, CSS, Bootstrap, and jQuery. Good familiarity with JavaScript. Eager to contribute to team success through hard work.
 
