@@ -20,8 +20,10 @@ I am a Full Stack developer with good experience as a Full Stack developer using
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ameerbaghdadi&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ameerbaghdadi)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ameerbaghdadi)  
 
 ![Profile views](https://gpvc.arturio.dev/ameerbaghdadi)  
+
+
+
+[I'm an inline-style link](https://www.google.com)
