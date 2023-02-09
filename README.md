@@ -15,8 +15,10 @@ I am a Full Stack developer with good experience as a Full Stack developer using
 * [Realest](https://github.com/ameerbaghdadi/Realest): A website to connect customers and real estate developers built using Java Spring Boot Framework<br>
 * [RentX](https://github.com/ameerbaghdadi/RentXProject): A website that allows university students living in accommodations to share/rent their own products built using Django<br>
 
-🔭 I’m currently working on expanding my knowledge.
-🌱 I’m currently learning new stacks and skills.
+<hr>
+
+- 🔭 I’m currently working on expanding my knowledge.
+- 🌱 I’m currently learning new stacks and skills.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ameerbaghdadi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ameerbaghdadi/)  
 
