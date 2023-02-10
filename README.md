@@ -27,5 +27,3 @@ I am a Full Stack developer with good experience as a Full Stack developer using
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ameerbaghdadi&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ameerbaghdadi)  
-
-![Profile views](https://gpvc.arturio.dev/ameerbaghdadi)  
