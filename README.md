@@ -1,11 +1,11 @@
 ### Hi there 👋, My name is Ameer Baghdadi
-#### I am a Full Stack developer
-I am a Full Stack developer with good experience as a Full Stack developer using Java, Python, React and Node.js and Great skills with HTML, CSS, Bootstrap, and jQuery. Good familiarity with JavaScript. Eager to contribute to team success through hard work.
+#### I am a Front End Developer
+As an experienced Front End Developer with a solid foundation in React and React Native, I am a collaborative team player dedicated to consistently delivering high-quality code and seamless user experiences. I possess strong communication skills and maintain a proactive attitude towards learning, ensuring I stay updated on the latest technologies.
 
 <h3>Technical Skills</h3>
 
-* **Languages:** Python, Java, JavaScript(ES6, Node.js), HTML5, CSS, SQL.<br>
-* **Frameworks/Libraries:** Flask, Spring Boot, jQuery, React, Express, Bootstrap, Material-UI.<br>
+* **Languages:** TypeScript, JavaScript(ES6, Node.js), HTML5, CSS, SQL.<br>
+* **Frameworks/Libraries:** React, React Native, Express, Bootstrap, Material-UI.<br>
 * **Database:** MySQL, MongoDB, Mongoose.<br>
 * **Tools:** AJAX, Spring Tool Suite, REST API, Axios, JSON, PostMan, Socket.io, AWS(EC2), MySQL Workbench, Git, Github.<br>
 
