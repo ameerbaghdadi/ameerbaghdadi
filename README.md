@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Ameer Baghdadi
 #### I am a Front End Developer
-As an experienced Front End Developer with a solid foundation in React and React Native, I am a collaborative team player dedicated to consistently delivering high-quality code and seamless user experiences. I possess strong communication skills and maintain a proactive attitude towards learning, ensuring I stay updated on the latest technologies.
+As a skilled Front End Developer with expertise in React and React Native, I am dedicated to consistently delivering high-quality code and seamless user experiences. My solid technical foundation is complemented by a strong team-oriented mindset, excellent communication skills, and a proactive approach to continuous learning, ensuring I stay updated on the latest technologies.
 
 <h3>Technical Skills</h3>
 
